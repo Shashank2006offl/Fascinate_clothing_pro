@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/55bf4d58-3ff8-459e-a84e-375f4afc4b91)# Fascinate_clothing Website
-
+# Fascinate Clothing website
 Fascinate Clothing is a modern, responsive website template designed for clothing brands or fashion stores. Built using HTML, CSS, and JavaScript, the template showcases product categories, featured items, and customer-focused design to help brands establish a strong online presence
 
 ### Live Demo
